@@ -21,7 +21,7 @@ Data Sources: Patient records, disease trends, and demographics
 💬 Feedback is Welcome!
 I’d love to hear your thoughts or suggestions on how this could be further enhanced. Let's discuss how data can continue to transform healthcare!
 
-👉 Check out my GitHub repository for more details and a glimpse of the project: [GitHub Link]
+
 
 📌 Special Thanks: To everyone who encouraged me during this journey. Your support motivates me to keep learning and building!
 
